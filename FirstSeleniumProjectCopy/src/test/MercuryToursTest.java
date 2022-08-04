@@ -57,6 +57,7 @@ public class MercuryToursTest extends BaseTest1 {
 		assertTrue(true);
 				
 		endTest();
+		//sample
 		
 	}
 
